@@ -228,7 +228,7 @@ body {
 }
 .github {
   display: block;
-  width: 120px;
+  width: 150px;
   height: 45px;
   padding-left: 45px;
   background-image: url('assets/svg/github.svg');
